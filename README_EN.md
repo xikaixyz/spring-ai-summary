@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/spring--ai--summary-v1.0.0-blue.svg" alt="Spring AI Summary" style="vertical-align:middle; margin-right:4px;"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=java-ai-tech.spring-ai-summary" alt="Visitors" style="vertical-align:middle; margin-right:4px;"/>
 </p>
+1
 
 **Spring AI Summary** is a modular collection of sample projects based on native **Spring AI** framework, helping developers quickly master Spring AI's core features through clear code examples and detailed documentation.
 
