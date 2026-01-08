@@ -180,6 +180,8 @@ http://localhost:8081/actuator/metrics/ai.total.tokens
 
 1. **Fork 项目**
 
+2. 
+
 如下图所示， fork 仓库到你个人仓库
 ![how-to-fork.png](docs/statics/how-to-fork.png)
 
