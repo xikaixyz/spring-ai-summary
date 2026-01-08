@@ -5,9 +5,6 @@
   <img src="https://img.shields.io/badge/spring--ai--summary-v1.0.0-blue.svg" alt="Spring AI Summary" style="vertical-align:middle; margin-right:4px;"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=java-ai-tech.spring-ai-summary" alt="Visitors" style="vertical-align:middle; margin-right:4px;"/>
 </p>
-11
-
-88
 **Spring AI Summary** 是基于原生 **Spring AI** 框架的模块化示例工程集合，通过清晰的代码示例和详细文档，帮助开发者快速掌握 Spring AI 的核心功能。
 
 ### 👥 适合人群
